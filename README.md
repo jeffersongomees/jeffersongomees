@@ -1,10 +1,10 @@
 ## Olá, Bem vindo! Eu sou o Jefferson 🖐️ 
 
-### • Desenvolvedor de RPA - Python 🤖
+### • Desenvolvedor RPA - Python 🤖
 
 <div><br/>
 
-![Jefferson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersongomees&show_icons=true&theme=dracula)
+![Jefferson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersongomexs&show_icons=true&theme=dracula)
 
 
 ### • ESTAS SÃO AS TECNOLOGIAS QUE UTILIZO:
